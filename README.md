@@ -12,7 +12,7 @@ Using sentiment analysis and topic modeling on IMDb user reviews, this project i
 
 ## Project Structure
 
-- `scraper.py`: A Python web scraper built with Selenium to extract user reviews, ratings, genres, and episode information from IMDb.
+- `scraper.py`: A custom-built Python web scraper using Selenium to extract user reviews, ratings, genres, and episode information from IMDb.
 - `imdb_reviews_analysis.ipynb`: A Jupyter Notebook containing the sentiment analysis, topic modeling, data visualization, and validation.
 - `show_data.csv`: Folder containing the dataset (CSV format) used in the analysis.
 - `README.md`: Current file.
